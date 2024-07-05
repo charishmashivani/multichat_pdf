@@ -1,0 +1,5 @@
+numpy
+langchain
+pandas
+openai==0.28
+pymupdf
