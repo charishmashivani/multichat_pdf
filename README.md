@@ -1,13 +1,6 @@
-# multichat_pdf
-VI semester Mini project
+# Multi-Chat PDF Bot
 
-Here is a README file for the PDF Q&A Bot project:
-
----
-
-# PDF Q&A Bot
-
-The PDF Q&A Bot is a Streamlit application that allows users to upload PDF files and ask questions about their content. The application uses OpenAI embeddings to analyze the text in the PDFs and generate relevant answers.
+The Multi-Chat PDF Bot is a Streamlit application that allows users to upload PDF files and ask questions about their content. The application uses OpenAI embeddings to analyze the text in the PDFs and generate relevant answers. It processes PDF documents by embedding content and calculating vector distances. It uses Retrieval-Augmented Generation (RAG) techniques with pre-trained LLMs to provide answers based on user prompts.
 
 ## Table of Contents
 
