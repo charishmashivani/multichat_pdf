@@ -8,8 +8,6 @@ The Multi-Chat PDF Bot is a Streamlit application that allows users to upload PD
 - [Installation](#installation)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -49,7 +47,6 @@ streamlit run main.py
 
 The application relies on the following Python libraries:
 
-- `numpy`: Fundamental package for scientific computing.
 - `langchain`: Library for building language models.
 - `pandas`: Data manipulation and analysis library.
 - `openai==0.28`: OpenAI Python client library.
@@ -59,11 +56,3 @@ These dependencies are listed in the `requirements.txt` file and can be installe
 ```bash
 pip install -r requirements.txt
 ```
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
